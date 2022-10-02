@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tomluxton
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on Web projects
+- 👀 I’m interested in Web developement and Data Science
 - 📫 How to reach me https://www.linkedin.com/in/tomluxton/
 
 <!---
